@@ -1,7 +1,7 @@
 <html>
 <head>
-	<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-	<link href="assets/css/navbar-fixed-top.css" rel="stylesheet" type="text/css">
+	<link href="asset/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="asset/css/navbar-fixed-top.css" rel="stylesheet" type="text/css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script type="text/javascript" src="asset/js/bootstrap.js"> </script>
 </head>
